@@ -42,5 +42,6 @@ Validate the correctness of each data point in the JSON response<br>
 
 # Result of Task:
 ![image](https://github.com/gladysgodwin/HNGx-Stage-one/assets/99274632/16170c0a-5684-4b2d-808a-c27ff33cd2d8)
+![image](https://github.com/gladysgodwin/HNGx-Stage-one/assets/99274632/f884d118-845d-4ae1-be70-9fb7e269e3d2)
 
 # Language used: Python
