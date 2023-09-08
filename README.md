@@ -43,8 +43,10 @@ Validate the correctness of each data point in the JSON response<br>
 
 
 # Result of Task:
-![image](https://github.com/gladysgodwin/HNGx-Stage-one/assets/99274632/16170c0a-5684-4b2d-808a-c27ff33cd2d8)
-![image](https://github.com/gladysgodwin/HNGx-Stage-one/assets/99274632/f884d118-845d-4ae1-be70-9fb7e269e3d2)
+![image](https://github.com/gladysgodwin/HNGx-Stage-one/assets/99274632/708bc3db-e485-4d76-b7d6-103486e98628)
+![image](https://github.com/gladysgodwin/HNGx-Stage-one/assets/99274632/219b485c-8ac4-4a0c-a753-dc610743c9c1)
 
-## Endpoint url: https://5000-gladysgodwi-hngxstageon-hyz1ytbs1hd.ws-eu104.gitpod.io/api?slack_name=GladysGodwin&track=backend
-# Language used: Python
+
+## Endpoint url: https://stage-1-gladys.onrender.com/api?slack_name=gladysgodwin&track=backend
+
+# Language used: Python Flask
